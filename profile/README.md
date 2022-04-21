@@ -2,6 +2,6 @@
 
 Hey! This is us!
 
-![Background](background.png)
+![Background](/profile/background.png)
 
 Awesome Updates coming soon......
